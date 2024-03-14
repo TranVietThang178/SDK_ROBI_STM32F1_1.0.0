@@ -9,6 +9,8 @@ Description:  This Library is built for the chipset STM32F103C8T6, the LCD is th
 $Original Author: TanPN, ThangTV $
 
 Last Changed By:  $Author: TanPN, ThangTV $
+
 Revision:         $Revision: 2.0 $
+
 Last Changed:     $Date:  14/03/2024 $
  
