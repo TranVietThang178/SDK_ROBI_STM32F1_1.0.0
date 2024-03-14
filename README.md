@@ -1,10 +1,10 @@
-Copyright (c) 2023
+Copyright (c) 2024
 Lumi, JSC.
 All Rights Reserved
 
 
 Description:  This Library is built for the chipset STM32F103C8T6, the LCD is the ST7735S. 
-              The Library is used to control Robi, a line-following robot.
+              The Library is used to control BEVA Robi, a line-following robot.
 
 $Original Author: TanPN, ThangTV $
 
